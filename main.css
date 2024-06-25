@@ -168,3 +168,6 @@ button:hover{
     color: #DC143C; /* Cor do texto */
     
 }
+#sobre {
+    max-width: 700px;
+}
